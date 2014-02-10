@@ -285,26 +285,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="ffded8" />
-        <option name="ERROR_STRIPE_COLOR" value="ffc8bd" />
+        <option name="BACKGROUND" value="6d3637" />
+        <option name="ERROR_STRIPE_COLOR" value="b95e66" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="d6d6d6" />
-        <option name="ERROR_STRIPE_COLOR" value="cbcbcb" />
+        <option name="BACKGROUND" value="f2734" />
+        <option name="ERROR_STRIPE_COLOR" value="83d59" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="c8f2c8" />
-        <option name="ERROR_STRIPE_COLOR" value="baeeba" />
+        <option name="BACKGROUND" value="434f39" />
+        <option name="ERROR_STRIPE_COLOR" value="66804f" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="cad9fa" />
-        <option name="ERROR_STRIPE_COLOR" value="bccff9" />
+        <option name="BACKGROUND" value="425452" />
+        <option name="ERROR_STRIPE_COLOR" value="4e6966" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -799,4 +799,3 @@
     </option>
   </attributes>
 </scheme>
-
