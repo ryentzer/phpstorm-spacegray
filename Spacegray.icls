@@ -2,14 +2,17 @@
 <scheme name="Spacegray" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro for Powerline" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="414651" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="FILESTATUS_ADDED" value="a3be8c" />
+    <option name="FILESTATUS_DELETED" value="212121" />
+    <option name="FILESTATUS_MERGED" value="8eadb9" />
+    <option name="FILESTATUS_MODIFIED" value="ebcb8b" />
+    <option name="FILESTATUS_UNKNOWN" value="65737e" />
     <option name="GUTTER_BACKGROUND" value="22252f" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
     <option name="HTML_TAG_TREE_LEVEL1" value="" />
@@ -49,7 +52,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ab7967" />
+        <option name="FOREGROUND" value="b95e66" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -449,7 +452,7 @@
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffa500" />
+        <option name="FOREGROUND" value="e0d05e" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
