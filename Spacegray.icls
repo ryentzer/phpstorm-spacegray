@@ -5,8 +5,8 @@
   <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="414651" />
-    <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="" />
+    <option name="CARET_COLOR" value="ebcb8b" />
+    <option name="CARET_ROW_COLOR" value="1e2029" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_ADDED" value="a3be8c" />
     <option name="FILESTATUS_DELETED" value="212121" />
@@ -239,6 +239,8 @@
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="b95e66" />
+        <option name="EFFECT_COLOR" value="65737e" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -285,26 +287,26 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="ffded8" />
-        <option name="ERROR_STRIPE_COLOR" value="ffc8bd" />
+        <option name="BACKGROUND" value="6d3637" />
+        <option name="ERROR_STRIPE_COLOR" value="b95e66" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="d6d6d6" />
-        <option name="ERROR_STRIPE_COLOR" value="cbcbcb" />
+        <option name="BACKGROUND" value="f2734" />
+        <option name="ERROR_STRIPE_COLOR" value="83d59" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="c8f2c8" />
-        <option name="ERROR_STRIPE_COLOR" value="baeeba" />
+        <option name="BACKGROUND" value="434f39" />
+        <option name="ERROR_STRIPE_COLOR" value="66804f" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="cad9fa" />
-        <option name="ERROR_STRIPE_COLOR" value="bccff9" />
+        <option name="BACKGROUND" value="425452" />
+        <option name="ERROR_STRIPE_COLOR" value="4e6966" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
